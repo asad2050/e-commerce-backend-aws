@@ -70,7 +70,7 @@ This document outlines the deployment process for the Express API hosted on AWS.
 
 Explore the live Express API using the following links:
 
-- **Primary Demo Link**: [https://api.asadprime.store](https://asadprime.store)
+- **Primary Demo Link**: [https://api.asadprime.store](https://api.asadprime.store)
 - **Alternative Link** (if the primary link is inactive): [https://harmaig-backend.onrender.com](https://harmaig-backend.onrender.com)
 
 
