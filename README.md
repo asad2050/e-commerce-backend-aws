@@ -67,7 +67,12 @@ This document outlines the deployment process for the Express API hosted on AWS.
    - The domain **asadprime.store** was purchased from Hostinger, where the redirect settings were updated to point to the EC2 instance.
 
 ## Live Demo
-The Express API is accessible at: [Demo Link](https://asadprime.store)
+
+Explore the live Express API using the following links:
+
+- **Primary Demo Link**: [https://api.asadprime.store](https://asadprime.store)
+- **Alternative Link** (if the primary link is inactive): [https://harmaig-backend.onrender.com](https://harmaig-backend.onrender.com)
+
 
 ## Conclusion
 The deployment of the Express API on AWS is complete. For further assistance, feel free to reach out.
