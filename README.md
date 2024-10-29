@@ -1,3 +1,10 @@
+### Project Information
+This project is part of an assessment for a Web Developer Internship at Hermaig Jewelers.
+
+### Demo
+- **Primary Demo Link**: [https://api.asadprime.store](https://api.asadprime.store)
+- **Alternative Link** (if the primary link is inactive): [https://harmaig-backend.onrender.com](https://harmaig-backend.onrender.com)
+
 # Deployment Documentation for Express API
 
 ## Overview
